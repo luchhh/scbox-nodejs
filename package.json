@@ -1,0 +1,23 @@
+{
+  "name": "scbox-nodejs",
+  "version": "1.0.0",
+  "description": "Super Crate Box clone in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchhh/scbox-nodejs.git"
+  },
+  "author": "ldillon83@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luchhh/scbox-nodejs/issues"
+  },
+  "homepage": "https://github.com/luchhh/scbox-nodejs#readme",
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
